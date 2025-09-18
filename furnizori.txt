@@ -1,0 +1,15 @@
+1000 Cofetarie 0
+2000 Furnizor_alimentar_specializat_in_patiserie 1000
+2100 Boromir 2000
+2200 Albalact 2000
+2300 Dr.Oetker 2000
+2400 Metro 2000
+3000 Furnizor_de_fructe_si_legume 1000
+3100 Ecofruct 3000
+3200 Vegis 3000
+4000 Furnizor_de_ustensile_si_echipamente 1000
+4100 Cocorico_Tools 4000
+4200 Horeca_Shop 4000
+5000 Furnizori_de_ambalaje 1000
+5100 Eurobox 5000
+5200 Packline 5000

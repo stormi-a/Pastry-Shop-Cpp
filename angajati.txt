@@ -1,0 +1,16 @@
+100 Andreescu Maria 10_ianuarie_1985 Bucuresti_str._Mateescu_nr._7 0752124678 maria.andreescu@gmail.com 7 2 romana engleza
+101 Popescu Ion 22_martie_1990 Bucuresti_str._Iliescu_nr._10 0721789035 ion.popescu@yahoo.com 4 3 romana engleza franceza
+200 Ionescu Ana 8_aprilie_1982 Bucuresti_sos._Cribliu_nr._10 0788672679 ana.ionescu@yahoo.com 11 4 romana germana spaniola italiana
+201 Radu Mihai 12_iunie_1993 Bucuresti_str._Tache_nr._2 0768976246 mihai.radu@gmail.com 3 2 romana rusa
+204 Popa Mihaela 18_iulie_1984 Bucuresti_str._Prevederii_nr._8 0768253881 mihaela.popa@gmail.com 8 2 romana olandeza
+206 Francois Dumitru 5_iunie_1980 Bucuresti_str._Iasului_nr._45 0789123654 dumitrufrancois@yahoo.com 15 4 romana engleza portugheza japoneza
+207 Popescu Mihaela 20_noiembrie_1980 Bucuresti_str._Brabu_nr._1 0712456789 popescumihaela@gmail.com 15 3 romana spaniola franceza
+300 Dumitru Adrian 3_decembrie_1987 Bucuresti_str._Papuc_nr._56 0765839312 adrian.dumitru@yahoo.com 5 2 romana italiana
+301 Gheorghe Andreea 29_noiembrie_1991 Bucuresti_str._Barbului_nr._13 0756123567 andreea.gheorghe@yahoo.com 4 4 romana engleza germana araba
+302 Radulescu Cristina 9_august_1983 Bucuresti_str._Craiovei_nr._12 0789162712 cristina.radulescu@yahoo.com 12 2 romana chineza
+303 Stoica Florin 14_martie_1989 Bucuresti_str._Sforii_nr._3 0789161234 florin.stoica@gmail.com 6 3 romana engleza rusa
+400 Lazar Alexandru 25_iulie_1994 Bucuresti_str._Icoanei_nr._12 0789123345 alexandru.lazar@gmail.com 2 3 romana franceza spaniola
+401 Popovici Ioana 6_septembrie_1990 Bucuresti_str._Privighii_nr._13 0789123456 ioana.popovici@gmail.com 5 2 romana japoneza
+402 Beatrice Ionela 7_august_1969 Bucuresti_str._Ioanes_nr._13 0789123456 ionelabeatritce@yahoo.com 20 4 romana engleza italiana germana
+403 Ionel Cristelnita 5_iulie_2000 Bucuresti_str._Barbu_nr._67 0789556123 ionelcristel@yahoo.com 2 3 romana engleza olandeza
+404 Napu Johanes 5_august_1993 Bucuresti_str._Rahovei_nr._23 0789123567 johanesnapu@yahoo.com 5 2 romana portugheza

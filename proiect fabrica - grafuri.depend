@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1686074212 source:c:\users\andreea\desktop\xi\info\proiecte\proiect fabrica - grafuri\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdlib.h>
+	<conio.h>
+	<random>
+
+1686074212 source:d:\docs\liceu\xi\info\proiecte\proiect cofetarie-grafuri\proiect cofetarie - grafuri\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdlib.h>
+	<conio.h>
+	<random>
+

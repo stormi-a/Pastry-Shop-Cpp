@@ -1,0 +1,4 @@
+1 conducere
+2 bucatarie
+3 relatii_cu_clientii
+4 intretinere_firma

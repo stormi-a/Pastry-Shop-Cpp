@@ -1,0 +1,14 @@
+1 tort Carrot_Cake 11 morcovi 10 buc faina 300 g zahar 200 g oua 3 buc lapte 100 ml ulei 100 ml nuca 100 g scortisoara 50 g praf_de_copt 50 g sare 25 g vanilie 50 g 5 20 15 30 30 23 5 5 120
+2 tort Chocolate_Cake 9 ciocolata_Nestle_Dessert 200 g faina 250 g zahar 200 g unt 150 g oua 3 buc lapte 100 ml praf_de_copt 50 g sare 25 g vanilie 25 g 10 25 40 50 4 10 5 5 120
+3 tort Strawberry_Shortcake 9 capsune 500 g faina 200 g zahar 150 g unt 100 g oua 2 buc praf_de_copt 50 g sare 25 g lapte 100 ml vanilie 25 g 12 30 25 25 60 5 5 5 120
+4 tort Black_Forest_Cake 10 cirese 500 g faina 250 g zahar 200 g unt 150 g oua 4 buc cacao_pudra 50 g praf_de_copt 100 g sare 25 g lapte 200 ml vanilie 25 g 15 30 35 30 70 16 5 5 120
+5 tort Red_Velvet_Cake 10 cacao_pudra 50 g faina 250 g zahar 200 g unt 150 g oua 2 buc lapte 200 ml otet 25 g praf_de_copt 25 g sare 25 g vanilie 25 g 12 25 30 60 30 13 3 3 240
+6 tort Coconut_Cake 9 cocos 1 buc faina 300 g zahar 250 g unt 200 g lapte_de_cocos 200 ml oua 4 buc praf_de_copt 50 g sare 25 g vanilie 25 g 10 35 40 50 45 14 4 4 120
+7 tort Oreo_Cheesecake 8 biscuiti_Oreo 300 g unt 100 g zahar 150 g branza_crema 500 g frisca 200 ml vanilie 25 g gelatina 10 g apa 50 ml 15 20 180 40 23 13 7 7 120
+8 tort Marble_Cake 9 faina 300 g zahar 200 g unt 200 g oua 4 buc lapte 150 ml cacao_pudra 50 g praf_de_copt 50 g sare 25 g vanilie 25 g 10 30 35 45 23 7 8 8 130
+9 tort Raspberry_Cheesecake 9 zmeura 300 g biscuiti_Petit_Beurre 200 g unt 150 g zahar 150 g branza_crema 500 g frisca 200 ml gelatina 10 g apa 50 ml suc_de_lamaie 100 g 15 20 180 100 43 12 9 9 120
+10 prajitura Lemon_Tart 8 lamaie 4 buc faina 150 g zahar 100 g unt 100 g oua 2 buc smantana 200 ml coaja_de_lamaie 50 g suc_de_lamaie 100 g 8 15 20 30 130 4 15 5 5 120
+11 prajitura Tiramisu 7 cafea 200 ml mascarpone 500 g zahar  150 g biscuiti_Savoiardi 200 g cacao_pudra 100 g oua 4 buc vanilie 50 g 10 15 120 70 100 6 30 4 4 120
+12 prajitura Banana_Bread 9 banane 3 buc faina 250 g zahar 150 g unt 100 g oua 2 buc praf_de_copt 50 g sare 20 g iaurt 100 g vanilie 50 g 10 15 50 80 120 9 10 4 4 240
+13 prajitura Vanilla_Cupcakes 8 faina 200 g zahar 150 g unt 150 g oua 3 buc lapte 150 ml praf_de_copt 50 g sare 20 g vanilie 50 g 10 15 25 23 234 2 34 6 6 240
+14 prajitura Chocolate_Chip_Cookies 8 faina 250 g unt 200 g zahar 150 g oua 2 buc praf_de_copt 25 g sare 20 g ciocolata_Nestle_Dessert 200 g vanilie 50 g 10 15 20 120 30 7 12 7 7 230
